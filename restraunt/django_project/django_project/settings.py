@@ -81,7 +81,8 @@ DATABASES = {
 }
 
 
-MONGODB_CONNECT_STRING = 'mongodb://root:YVRuaA8Wbwuu@104.196.243.161:27017/DrishtiFullstackTest?authSource=admin'
+# MONGODB_CONNECT_STRING = 'mongodb://root:YVRuaA8Wbwuu@104.196.243.161:27017/DrishtiFullstackTest?authSource=admin'
+MONGODB_CONNECT_STRING = 'mongodb://localhost/drishti'
 
 
 # Password validation
