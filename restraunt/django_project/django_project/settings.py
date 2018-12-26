@@ -81,6 +81,9 @@ DATABASES = {
 }
 
 
+MONGODB_CONNECT_STRING = 'mongodb://root:YVRuaA8Wbwuu@104.196.243.161:27017/DrishtiFullstackTest?authSource=admin'
+
+
 # Password validation
 # https://docs.djangoproject.com/en/2.1/ref/settings/#auth-password-validators
 
